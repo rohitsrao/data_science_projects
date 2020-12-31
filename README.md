@@ -6,4 +6,5 @@ All projects I implemented when learning data science
 Python Libraries Used: Pandas, Matplotlib, itertools and collections. 
 - Data Cleanup and Preparation
 - Analytics of sales data
-  - ex. When should ads be demonstrated to maximized likelihood of purchase
+  - When should ads be demonstrated to maximized likelihood of purchase
+  - Which products are sold most often together
